@@ -1,0 +1,15 @@
+.ingrid-darling-regular {
+    font-family: "Ingrid Darling", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+  .letra{
+    margin-left:100px;
+    margin-top:30;
+  }
+  .banner{
+    background-image: url("./assents/Rectangle\ 4.png");
+    height:600px ;
+    width: 100%;
+
+  }
